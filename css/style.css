@@ -1,4 +1,6 @@
-
+body{
+  min-width: 420px;
+}
 
 .line{
     text-decoration: line-through;
